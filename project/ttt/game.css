@@ -1,0 +1,32 @@
+ td{
+   width: 125px;
+   height: 125px;
+   text-align: center;
+   border: 5px solid black;
+   font-size: 60px;
+
+ }
+
+ .board{
+   margin-top: 50px;
+ }
+ #head{
+
+   font-family: 'Shizuru', cursive;
+   font-size: 75px;
+   /* text-decoration: underline; */
+ }
+.asd{
+   background-color: #a2d5c6;
+   background: #a2d5c6;
+   color: #d72631;
+ }
+ h2{
+   font-size: 50px;
+   font-family: 'Crete Round', serif;
+ font-family: 'Roboto', sans-serif;
+ }
+
+.aq{
+  color: #5c3c92;
+}

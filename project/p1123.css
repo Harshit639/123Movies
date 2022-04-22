@@ -1,0 +1,114 @@
+body{
+
+  margin-top:0px;
+
+
+  border-radius: 5px;
+  color: #0d0d0d;
+}
+#zx{
+  color: #fe4a49;
+  text-align: center;
+  padding-top: 50px;
+  font-family: 'Crete Round', serif;
+  font-size: 75px;
+  font-style: italic;
+}
+.are{
+  color: #0392cf;
+}
+.ara{
+  color: #0392cf;
+}
+#aser{
+  /* margin-top: 90px; */
+  background: #ffe1db;
+  padding-bottom: 25px;
+  /* background-repeat: no-repeat; */
+
+}
+.arw{
+  color: black;
+  background: #edf7ed;
+  border: 3px solid black;
+  width: 40%;
+  margin: auto;
+  /* text-align: center; */
+  padding: 10px;
+  border-radius: 15px;
+  font-family: 'Redressed', cursive;
+  font-size: 20px;
+
+
+
+}
+#asdq{
+  color: green;
+  text-decoration: underline;
+}
+#zxc{
+  text-decoration: underline;
+  color: black;
+  text-align: center;
+  font-family: 'Redressed', cursive;
+  font-size: 40px;
+}
+#hg{
+  color: #edf7ed;
+  width: 100%;
+}
+#qwet{
+  border-radius: 10px;
+  text-align: center;
+  margin-left: 160px;
+  font-size: 30px;
+  width: 150px;
+}
+.jumbotron{
+  background-color: #ffe1db;
+  margin-top: 10px;
+   width: 75%;
+   font-family: 'Crete Round', serif;
+font-family: 'Roboto', sans-serif;
+     color: #fe4a49;
+}
+.navbar-brand {
+  position: relative;
+   background: url(https://logodix.com/logo/1837017.jpg);
+   width: 170px;
+   height: 50px;
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center
+
+}
+.qwerty{
+  width: 10px;
+  height: 20px;
+}
+#cvd{
+  font-family: 'Crete Round';
+  margin-left: 65px;
+  padding-bottom: 20px;
+
+}
+#zxcv{
+  background:#fe4a49;
+}
+#per{
+  text-align: center;
+
+  padding: 35px;
+}
+#logo{
+  height: 100px;
+  width: 160px;
+  padding-bottom: 15px;
+}
+#cvd{
+  font-size: 50px;
+margin-bottom: 10px;
+}
+.wer{
+  background-color:  #ffe1db;
+}
